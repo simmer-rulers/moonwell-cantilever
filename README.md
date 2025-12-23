@@ -44,7 +44,7 @@ No transactions are created, signed, or broadcast.
 - contracts/  
   Solidity contracts deployed to Base Sepolia for testnet validation:
   - control_contract.sol — is a Solidity contract that combines contract logic with access control
-  - 
+    
 - package.json  
   Dependency manifest referencing Coinbase SDKs and multiple Base + Coinbase repositories.
 
